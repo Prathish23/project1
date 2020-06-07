@@ -1,0 +1,83 @@
+body{
+    background-color:#f7f7f7;
+margin: 0;
+text-align: center;
+}
+h1{
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: 'Pacifico', cursive;
+
+}
+hr{
+  padding: 10px;
+  border-style:dotted none none;
+  border-width: 5px;
+  width:5%;
+}
+h2{
+  font-family: 'Hammersmith One', sans-serif;
+  font-size: 30px
+}
+.profile{
+  padding: 20px;
+  display:block;
+}
+h3{
+  font-family: 'Hammersmith One', sans-serif;
+  font-size: 20px;
+  position:relative;
+  top: 10px;
+}
+.sub{
+  position: relative;
+  top: 20px;
+}
+.skills{
+  padding:20px;
+  width: 200px;
+
+}
+.skills1{
+  width:200px;
+}
+p{
+  font-size: 1.62rem;
+  font-family: 'EB Garamond', serif;
+
+}
+.img1{
+  position:relative;
+  width: 100px;
+
+}
+.top-cloud{
+  padding-top: 100px;
+  position:relative;
+  left: 35%;
+}
+.bottom-cloud{
+  position: absolute;
+}
+.top-container{
+  background-color:#d4f3ef;
+}
+.middle-container{
+  background-color:#f7f7f7;
+}
+.bottom-container{
+  background-color:#d4f3ef;
+}
+.contact{
+  position: relative;
+  bottom: 10px;
+  width: 200px;
+
+}
+.conntact-me{
+  padding: 20px;
+}
+.para{
+  background-color: #f7f7f7;
+}
